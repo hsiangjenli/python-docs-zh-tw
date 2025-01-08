@@ -259,13 +259,10 @@ msgstr ""
 "法會引發這個例外。"
 
 #: ../../library/asyncio-queue.rst:174
-#, fuzzy
 msgid ""
 "Exception raised when :meth:`~Queue.put` or :meth:`~Queue.get` is called on "
 "a queue which has been shut down."
-msgstr ""
-"當佇列中條目數量已經達到它的 *maxsize* 時，呼叫 :meth:`~Queue.put_nowait` 方"
-"法會引發這個例外。"
+msgstr "在已關閉的佇列上呼叫 :meth:`~Queue.put` 或 :meth:`~Queue.get` 會引發這個例外。"
 
 #: ../../library/asyncio-queue.rst:181
 msgid "Examples"

@@ -181,22 +181,20 @@ msgid "Rewind the file pointer to the beginning of the audio stream."
 msgstr "重置檔案指標至音訊流的開頭。"
 
 #: ../../library/wave.rst:126
-#, fuzzy
 msgid ""
 "The following two methods are defined for compatibility with the old :mod:`!"
 "aifc` module, and don't do anything interesting."
-msgstr "以下兩個方法是為了與 :mod:`aifc` 模組的保持相容性，並不執行任何操作。"
+msgstr "以下兩個方法是為了與舊的 :mod:`!aifc` 模組的保持相容性，並不執行任何操作。"
 
 #: ../../library/wave.rst:132
 msgid "Returns ``None``."
 msgstr "回傳 ``None``。"
 
 #: ../../library/wave.rst:134 ../../library/wave.rst:143
-#, fuzzy
 msgid ""
 "The method only existed for compatibility with the :mod:`!aifc` module which "
 "has been removed in Python 3.13."
-msgstr "以下兩個方法是為了與 :mod:`aifc` 模組的保持相容性，並不執行任何操作。"
+msgstr "此方法僅為與 :mod:`!aifc` 模組相容而存在，而該模組已在 Python 3.13 中移除。"
 
 #: ../../library/wave.rst:141
 msgid "Raise an error."
